@@ -1,4 +1,4 @@
-# 🟢 JavaScript Interview Practice — Set 1 (Q1–Q6)
+# 🟢 JavaScript Interview Practice — Set 1 
 
 This repository contains **5 JavaScript practice questions** commonly asked in interviews.  
 Each question includes **code, explanation, and notes** for quick revision.
@@ -130,3 +130,9 @@ Ideal for callbacks and functional programming
 | 4  | Remove First Element | Array Mutation          | Very Easy    | `shift()`                        |
 | 5  | Callback Function    | Functions, Asynchronous | Intermediate | Function as Argument             |
 | 6  | Arrow Function       | ES6 Functions           | Easy         | `()=>{}`                         |
+
+
+| Task            | Operator / Method | Example                 | Result             |
+| --------------- | ----------------- | ----------------------- | ------------------ |
+| 7.Add property    | `obj.key = value` | `person.city = "Noida"` | Adds new key-value |
+| 8.Delete property | `delete obj.key`  | `delete person.city`    | Removes key-value  |
