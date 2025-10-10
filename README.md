@@ -1,4 +1,4 @@
-# 🟢 JavaScript Interview Practice — Set 1 (Q1–Q5)
+# 🟢 JavaScript Interview Practice — Set 1 (Q1–Q6)
 
 This repository contains **5 JavaScript practice questions** commonly asked in interviews.  
 Each question includes **code, explanation, and notes** for quick revision.
