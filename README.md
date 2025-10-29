@@ -136,3 +136,6 @@ Ideal for callbacks and functional programming
 | --------------- | ----------------- | ----------------------- | ------------------ |
 | 7.Add property    | `obj.key = value` | `person.city = "Noida"` | Adds new key-value |
 | 8.Delete property | `delete obj.key`  | `delete person.city`    | Removes key-value  |
+|9.Array            |'sum of element'   | "10+10"='20'.           | sum|
+10.Prime            |'True or False'    | 3 is prime no..         | true|
+11.Fibonnaccci.     | 'sequence'        | 0,1,1,2,3,5,8,11        | yes |
