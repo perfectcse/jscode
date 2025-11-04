@@ -139,3 +139,6 @@ Ideal for callbacks and functional programming
 |9.Array            |'sum of element'   | "10+10"='20'.           | sum|
 10.Prime            |'True or False'    | 3 is prime no..         | true|
 11.Fibonnaccci.     | 'sequence'        | 0,1,1,2,3,5,8,11        | yes |
+12.Power            |Use Math.pow() or **, multiply base exponent times| 2^3=8|
+13.Character        |Loop or use split() to count occurrences| Javascrpit-- a=> 2|
+14.Merge            |Use concat() or spread [...arr1, ...arr2]| let merged = [...arr1, ...arr2];
